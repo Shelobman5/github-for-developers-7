@@ -4,3 +4,4 @@
 - **Location:** Franklin Park, IL
 - **Favorite Food:** Cheese
 - **Hobby:** Traveling
+- **Favorite Color:** Purple
