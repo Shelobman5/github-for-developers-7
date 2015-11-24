@@ -1,3 +1,4 @@
+Update #Shelobman bio
 ### Biography
 
 - **Name:** Stefan Vlahov
@@ -5,3 +6,4 @@
 - **Favorite Food:** Cheese
 - **Hobby:** Traveling
 - **Favorite Color:** Purple
+- **Occupation:** Student
